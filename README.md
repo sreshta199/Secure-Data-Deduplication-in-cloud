@@ -10,7 +10,8 @@ There are three main objectives of the project. They are:
 
 • To refrain the client from uploading reduplicative files. • To overcome the security problems that are faced in convergence encryption system. • To alleviate the conflicts between functionality and security, the system and security models are defined.
 
-image
+![image](https://user-images.githubusercontent.com/78163009/123447909-00629b00-d5f8-11eb-8d26-266ca012bd82.png)
+
 
 The proposed application consists of three entities – client, key server and cloud server.The reason behind introducing a key server is to make sure that nothing about the user’s plaintext can be learned from uploaded information.
 
